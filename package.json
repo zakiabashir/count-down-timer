@@ -1,7 +1,7 @@
 {
-  "name": "count-down-timer",
+  "name": "zakia-count-down-timer",
   "version": "1.0.0",
-  "description": "",
+  "description": "THIS IS A MY CONSOLE PROJECT ON COUNT DOWN TIMER, USING BY TYPESCRIPT LANGUAGE",
   "main": "index.js",
   "type": "module",
   "bin": "index.js",
@@ -9,8 +9,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": " Zakia Bashir",
+  "license": "MIT",
   "dependencies": {
     "chalk": "^5.3.0",
     "inquirer": "^9.2.22"
